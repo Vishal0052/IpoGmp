@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "title": "Example IPO Ltd",
+    "latestGmp": "50",
+    "detailPageUrl": "https://ipo-gmp-radar.vercel.app/example-ipo-ltd.html"
+  }
+]
